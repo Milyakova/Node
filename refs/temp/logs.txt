@@ -1,5 +1,0 @@
-firstsecond_log
-$process.argv[2]??''
-third_log
-log_me
-log_me_again
