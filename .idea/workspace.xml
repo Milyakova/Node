@@ -9,10 +9,7 @@
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server_example.js" beforeDir="false" afterPath="$PROJECT_DIR$/server_example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644317998055</updated>
-      <workItem from="1644317999174" duration="37126000" />
+      <workItem from="1644317999174" duration="47307000" />
+      <workItem from="1644559228245" duration="1577000" />
+      <workItem from="1644560823439" duration="11848000" />
     </task>
     <servers />
   </component>
